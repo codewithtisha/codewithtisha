@@ -9,6 +9,7 @@
 - Machine Learning
 - Data Analysis
 - HTML, CSS
+- mySQL 
 
 ## 📌 Projects
 - Netflix Clone 🎬
